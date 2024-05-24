@@ -55,7 +55,7 @@ namespace HeroLevelClassifier
             }
 
             // Exibe a mensagem com o nível do herói
-            Console.WriteLine($"O Herói de nome {nome} está no nível de {nivel}");
+            Console.WriteLine($"O Herói {nome} está no nível {nivel}");
         }
     }
 }

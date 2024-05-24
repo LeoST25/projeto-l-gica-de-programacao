@@ -12,3 +12,4 @@ E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\refint\projeto-lógi
 E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.pdb
 E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.genruntimeconfig.cache
 E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\ref\projeto-lógica-de-programacao.dll
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.sourcelink.json
