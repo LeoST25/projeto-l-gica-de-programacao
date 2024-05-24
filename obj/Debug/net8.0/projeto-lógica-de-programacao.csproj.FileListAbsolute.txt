@@ -1,0 +1,14 @@
+E:\Projetos\projeto-lógica-de-programacao\bin\Debug\net8.0\projeto-lógica-de-programacao.exe
+E:\Projetos\projeto-lógica-de-programacao\bin\Debug\net8.0\projeto-lógica-de-programacao.deps.json
+E:\Projetos\projeto-lógica-de-programacao\bin\Debug\net8.0\projeto-lógica-de-programacao.runtimeconfig.json
+E:\Projetos\projeto-lógica-de-programacao\bin\Debug\net8.0\projeto-lógica-de-programacao.dll
+E:\Projetos\projeto-lógica-de-programacao\bin\Debug\net8.0\projeto-lógica-de-programacao.pdb
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.AssemblyInfoInputs.cache
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.AssemblyInfo.cs
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.csproj.CoreCompileInputs.cache
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.dll
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\refint\projeto-lógica-de-programacao.dll
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.pdb
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\projeto-lógica-de-programacao.genruntimeconfig.cache
+E:\Projetos\projeto-lógica-de-programacao\obj\Debug\net8.0\ref\projeto-lógica-de-programacao.dll
